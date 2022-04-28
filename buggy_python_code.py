@@ -16,7 +16,7 @@ def transcode_file(request, filename):
 # Assert statements
 def statments_check(request, user):
     assert user.is_admin, 'user does not have access'
-    # secure code...
+    # secure code..
 
 
 # Pickles
